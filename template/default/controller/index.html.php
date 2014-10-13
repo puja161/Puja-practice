@@ -5,6 +5,8 @@ echo "Thought Of The Day preeteeee";
 echo "hello";
 /* code added by preete*/
 echo "hello buddy preete and puja  and sini and varsha";
+echo "hello buddy preete and puja  and sini and varsha";
+echo "hello buddy preete and puja  and sini and varsha";echo "hello buddy preete and puja  and sini and varsha";
 ?></h2>
 {foreach from=$aUsers item=aUser}
 	<h1>{$aUser.title}</h1>
