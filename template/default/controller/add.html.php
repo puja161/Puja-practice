@@ -1,7 +1,7 @@
 <form method="post" action=""> 
   <div class="table"> 
       <div class="table_left"> 
-      Title
+      Title: sini
         </div> 
         <div class="table_right">  
      <input type="text" name="val[title]" id="title" />
