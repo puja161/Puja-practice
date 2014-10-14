@@ -17,3 +17,7 @@ echo "Welcomt sini";
 	<p>{$aUser.description}</p>
 		<br>
 {/foreach}
+
+<?php
+echo "Checking files for tortoise svn";
+?>
